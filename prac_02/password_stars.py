@@ -6,7 +6,7 @@ While the password length is less than MINIMUM_LENGTH:
     Print "Unqualified password"
     Prompt the user to re-enter the password
     Get the new password length
-Print "*" repeated for the length of the password
+Print "*" repeated for the length of the passwor
 
 """
 
