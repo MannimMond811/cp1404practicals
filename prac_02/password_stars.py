@@ -9,7 +9,7 @@ While the password length is less than MINIMUM_LENGTH:
 Print "*" repeated for the length of the password
 
 """
-# test
+
 MINIMUM_LENGTH = 8
 password = input("Enter your password(more than 8 numbers or alphabets):")
 length = len(password)
