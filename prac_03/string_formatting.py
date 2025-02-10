@@ -6,7 +6,7 @@ Want to read more about it?
 https://docs.python.org/3/library/string.html#formatstrings
 """
 
-name = "Gibson L-5 CES"
+name = "Gibson L-5 CES1"
 year = 1922
 cost = 16035.9
 
