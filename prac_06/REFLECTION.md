@@ -21,5 +21,5 @@ Reduce poor naming problem.
 
 ## What is one request you have or change you suggest for this subject and/or your IT degree overall?
 
-I want more detailed feedback and more understandable instructions in practical and assignment.
+I want more detailed feedback and more understandable instructions in practical and assignment. 
 
