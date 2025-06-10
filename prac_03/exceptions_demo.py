@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 - Practical
+CP1404/CP5632 -
 Answer the following questions:
 1. When will a ValueError occur?
     When enter something not a number
