@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 
+CP1404/CP5632 Practical
 List comprehensions
 """
 
