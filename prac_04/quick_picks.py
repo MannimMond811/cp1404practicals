@@ -1,4 +1,4 @@
-import random
+import 
 random_numbers = []
 input_number = int(input("How many quik picks:"))
 for i in range(input_number):
